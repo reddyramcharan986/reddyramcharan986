@@ -34,4 +34,4 @@ solving problems, and building real-world projects.
 ## 📫 Connect With Me
 
 - **GitHub:** [reddyramcharan986](https://github.com/reddyramcharan986)
-- **LinkedIn:** Add your LinkedIn profile here
+- **LinkedIn:** [<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/17b35ef9-e490-4a76-b36c-9bcbbcf5a6e6" />]
