@@ -21,7 +21,7 @@
 
 ## 📌 Projects
 
-- 💼 Job Portal
+- 💼 [Job Portal](https://github.com/reddyramcharan986/job-portal)
 - 🏫 CampusFlow
 - 🌐 Web Development Projects
 - 🧩 DSA Practice
@@ -33,5 +33,5 @@ solving problems, and building real-world projects.
 
 ## 📫 Connect With Me
 
-- **GitHub:** [reddyramcharan986](https://github.com/reddyramcharan986)
-- **LinkedIn:** [<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/17b35ef9-e490-4a76-b36c-9bcbbcf5a6e6" />]
+- 💻 GitHub: [reddyramcharan986](https://github.com/reddyramcharan986)
+- 🔗 LinkedIn: [Ram Charan Reddy](https://www.linkedin.com/in/ramcharan-reddy-84183a37b/)
